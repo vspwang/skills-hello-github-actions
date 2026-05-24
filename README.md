@@ -5,7 +5,7 @@
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-### 🌟 You've successfully completed the exercise! 🌟
+Remember, it's self-paced so feel free to take a break! ☕️ 
 
 ## 🚀 Share Your Success!
 
